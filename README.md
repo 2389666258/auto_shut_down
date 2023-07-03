@@ -10,7 +10,7 @@
 ### --- description ---
 ### ​A program that delays the shutdown of a laptop when it is powered down.
 #### 此程序用于检测 当前电脑(laptop) 是否接通电源
-#### 如果 拔掉电源 --> 执行 自动延迟关机 --> 并 弹出提示框 询问 是否取消延迟关机
+#### 如果 拔掉电源 --> 执行 自动延迟关机 --> 并 弹出提示框(可选) 询问 是否取消延迟关机
 #### 且可以 连接网络内台式机(desktop) 并执行相同操作
 
 ### --- warning ---
